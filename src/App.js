@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>I was changed on the feature branch</p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn
+          learn react
         </a>
       </header>
     </div>
